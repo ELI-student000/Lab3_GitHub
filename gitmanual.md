@@ -11,4 +11,5 @@
 * [git commit コマンド](module3-3.md)
 ## 4. ブランチ操作
 * [git branch コマンド](module4-1.md)
+* [git checkout コマンド]
 ![Copyright example.corp](./image/copyright.jpg)
