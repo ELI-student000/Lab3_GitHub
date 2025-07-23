@@ -11,5 +11,7 @@
 * [git commit コマンド](module3-3.md)
 ## 4. ブランチ操作
 * [git checkout コマンド](module4-1.md)
+## 5. 競合の解決
+* [git merge コマンド](module4-1.md)
 
 ![Copyright example.corp](./image/copyright.jpg)
