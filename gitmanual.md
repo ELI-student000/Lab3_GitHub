@@ -14,5 +14,6 @@
 * [git checkout コマンド](module4-2.md)
 ## 5. ブランチ操作　new
  * [git branch コマンド](module5-1.md)
+ * [git chekout コマンド](module5-2.md)
 
 ![Copyright example.corp](./image/copyright.jpg)
