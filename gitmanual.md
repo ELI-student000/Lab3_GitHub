@@ -15,5 +15,7 @@
 ## 5. ブランチ操作　new
  * [git branch コマンド](module5-1.md)
  * [git chekout コマンド](module5-2.md)
+ * [git merge コマンド](module5-3.md)
+
 
 ![Copyright example.corp](./image/copyright.jpg)
